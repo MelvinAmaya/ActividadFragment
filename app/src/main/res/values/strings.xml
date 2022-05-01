@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActividadFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parte1">Somos fuerza de una gran nación, forjadores de unidad, nuestras mentes, nuestro corazón van en busca de verdad.</string>
+    <string name="parte2">Con espíritu trabajador, sin descanso hasta triunfar lucharemos siempre con valor por la paz reconquistar. Nuestro hogar, nuestro orgullo es Oriente, nuestra estrella es inmortal y en Barrios aún sigue latente el progreso cual noble ideal.</string>
+    <string name="parte3">Universidad Gerardo Barrios formación profesional que transforma y educa con fe en Dios el futuro nacional. Nuestro hogar, nuestro orgullo es Oriente, nuestra estrella es inmortal y en Barrios aún sigue latente el progreso cual noble ideal. Universidad Gerardo Barrios</string>
+</resources>
